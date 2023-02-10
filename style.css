@@ -1,0 +1,64 @@
+.container {
+    background-color:whitesmoke;
+  height: 650px;
+  width: 800px;
+  border: 2px solid red;
+  margin: auto;
+}
+.box {
+  background-color: white;
+  height: 400px;
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 6px 3px 3px grey;
+}
+.iconandtext {
+  text-align: center;
+  margin-right: 140px;
+
+}
+.logo {
+  float: left;
+  padding-left: 25px;
+}
+.h3 {
+    font-size: x-large;
+    margin-top: 20px;
+}
+.h6 {
+   font-size: 15px;
+   margin-top: -10px;
+}
+img {
+    margin-top: -30px;
+}
+.cardcontent p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+}
+.footer{
+    display: flex;
+}
+.footer .nav{
+    margin-left: 10px;
+}
+.footer a{
+    text-decoration: none;
+    font-weight: bold;
+    color: darkslateblue;
+}
+#imp{
+    margin-left: 10px;
+}
+#heart {
+    margin-left: 200px;
+}
+#share{
+    margin-left: 15px;
+}
+.image img{
+    box-shadow:5px 10 red;
+}
